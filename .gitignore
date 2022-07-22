@@ -1,0 +1,11 @@
+/node_modules
+/auth
+/store
+/quods
+/db
+/wpp
+/store
+/vendor
+/.vscode
+config.*
+ecosystem.config.js

@@ -1,0 +1,22 @@
+{
+    "name": "khoirulh1610/crudstarter",
+    "description": "Crud Starter, Crud Maker, Role Management, Crud Admin",
+    "type": "library",
+    "require": {
+        "jeremykenedy/laravel-roles": "dev-master",
+        "rap2hpoutre/fast-excel": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "khoirulh1610\\crudstarter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khoirul hamdani",
+            "email": "khoirulh1610@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
